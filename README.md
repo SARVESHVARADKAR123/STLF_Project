@@ -1,4 +1,4 @@
-# Stock Price Prediction Project
+# Short Term Load Forecasting Project
 
 This project implements a machine learning system for stock price prediction using LSTM neural networks.
 
